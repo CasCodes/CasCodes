@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello, world! 🔌
+
+Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
+
+<div style="float: left">
+  <img align="left" src="https://user-images.githubusercontent.com/64489325/154119036-0499a71c-16ce-4ff5-89c3-4f029bdde622.gif" width=400px>
+</div>
+  
+<div style="float: right">
+  <img align="center" src="https://user-images.githubusercontent.com/64489325/154119068-0747a6fd-8421-4e91-b3a3-020ead86f818.gif" width=300px>
+</div>
 
 <!--
 **CasCodes/CasCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
