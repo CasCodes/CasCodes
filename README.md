@@ -12,7 +12,7 @@ Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
 </div>
 
 
-### my passion is programming and I'm a big fan of Linux & Foss software in general
+### my passion is programming and I'm a big fan of Linux & foss in general
 
 - 💾 some experience with C 
 - 🐍 currently learning python
