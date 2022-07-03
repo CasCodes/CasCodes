@@ -12,9 +12,9 @@ Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
 </div>
 
 
-### my passion is programming and I'm a big fan of Linux & foss in general
+### my passion is finding easy solutions for hard problems
 
-- 💾 experience with C and web dev
+- 🧠 AI and web dev
 - 🐍 currently working with Python
 - 🐧 happy Linux user 
 
