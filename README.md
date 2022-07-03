@@ -14,9 +14,9 @@ Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
 
 ### my passion is programming and I'm a big fan of Linux & foss in general
 
-- 💾 some experience with C 
-- 🐍 currently learning python
-- 🐧 happy linux user 
+- 💾 experience with C and web dev
+- 🐍 currently working with Python
+- 🐧 happy Linux user 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasCodes&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 
