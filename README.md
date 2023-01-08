@@ -2,21 +2,15 @@
 
 Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
 
-
-
-
-
-
 <div style="padding-top: 20px">
-  <img align="right" src="https://user-images.githubusercontent.com/64489325/154119068-0747a6fd-8421-4e91-b3a3-020ead86f818.gif" width=300px>
+  <img align="right" src="https://user-images.githubusercontent.com/64489325/211216905-342f96d2-ff44-4449-ba96-5faeae6457ea.gif" width=300px>
 </div>
 
 
 ### My passion is finding simple solutions to hard problems
 
 - 🧠 AI + Web
-- 🐍 currently working with Python
-- 🐧 happy Linux user 
+- 🐍 currently working with Python 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasCodes&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 
