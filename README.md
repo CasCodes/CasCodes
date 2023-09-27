@@ -10,6 +10,7 @@ Hi, I'm Caspar, aka CasCodes. Have fun looking around! 🦾
 ### My passion is finding simple solutions to hard problems
 
 - 🧠 AI + Web
+- 📖 NLP
 - 🐍 currently working with Python 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasCodes&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
